@@ -23,14 +23,6 @@ public class ItemDialog extends Dialog {
 		frame.add(new JButton("Dismiss"));
 		
 		
-//		JLabel productLabel = new JLabel("Username");
-//		JTextField usernameField = new JTextField(20);
-//		sl_overlayPanel.putConstraint(SpringLayout.WEST, field, 327, SpringLayout.WEST, frame);
-//		sl_overlayPanel.putConstraint(SpringLayout.EAST, field, -238, SpringLayout.EAST, frame);
-//		sl_overlayPanel.putConstraint(SpringLayout.NORTH, productLabel, 5, SpringLayout.NORTH, field);
-//		sl_overlayPanel.putConstraint(SpringLayout.EAST, productLabel, -21, SpringLayout.WEST, field);
-//		sl_overlayPanel.putConstraint(SpringLayout.NORTH, productLabel, 49, SpringLayout.NORTH, frame);
-//		productLabel.setLabelFor(field);
 		
 		this.tempItemName = field.getText();
 		
